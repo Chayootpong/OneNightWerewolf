@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RestSharp-Unity-NET-2.0</id>
+    <version>105.1</version>
+    <authors>LlamaZOO</authors>
+    <owners>LlamaZOO</owners>
+    <licenseUrl>https://github.com/llamazoo/RestSharp-for-unity3d/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/llamazoo/RestSharp-for-unity3d</projectUrl>
+    <iconUrl>http://dl.dropbox.com/u/1827/restsharp100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple REST and HTTP API Client</description>
+    <releaseNotes>For full release notes see https://github.com/llamazoo/RestSharp-for-unity3d/blob/master/releasenotes.markdown</releaseNotes>
+    <language>en-US</language>
+    <tags>REST HTTP API JSON XML</tags>
+  </metadata>
+</package>
