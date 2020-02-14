@@ -25,15 +25,16 @@ Extract .ZIP file and run .EXE file in PC or install .APK file on smartphone.
 
 **For 3 players**
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD APK FILE**]</a> 
-2. Game Server <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSvUV7OoVtltjFKf?e=TBDR77">[**DOWNLOAD APK FILE**]</a> 
+2. Game Server <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSn0olPCXaITiMCj?e=TGQ3lX">[**DOWNLOAD APK FILE**]</a>
 
 **For 5 players**
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD APK FILE**]</a> 
-2. Game Server <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSosybfwrEvivLIB?e=wAeStH">[**DOWNLOAD ZIP FILE**]</a> 
+2. Game Server <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSj_ZMtUmbb_Gosa?e=zY9fZq">[**DOWNLOAD ZIP FILE**]</a>
 
 *Note: This game has to play in the same network (LAN) only.*
+
 # Team Member(s)
 - Chayootpong Promlee
 - Panupong Ruksa
