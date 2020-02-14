@@ -1,5 +1,5 @@
 # One Night Werewolf
-
+![](https://i.imgur.com/lwp8mM4.png)
 # Description
 This is the university project of Object-Oriented Programming (OOP) year 2 semeter 1.
 
